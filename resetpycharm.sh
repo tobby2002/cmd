@@ -1,6 +1,6 @@
 #!/bin/bash
 #https://github.com/PythonicNinja/jetbrains-reset-trial-mac-osx/blob/master/runme.sh
-
+# nohup sh -- ./shell.sh &
 for product in IntelliJIdea WebStorm DataGrip PhpStorm CLion PyCharm GoLand RubyMine Rider; do
   echo "Closing $product"
   ps aux | grep -i MacOs/$product | cut -d " " -f 5 | xargs kill -9

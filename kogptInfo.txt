@@ -1,0 +1,1 @@
+https://github.com/scy6500/KoGPT2/blob/main/main.py

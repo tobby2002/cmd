@@ -8,3 +8,8 @@ driver info
 MSI Sword GF76 A11UE => O 선택   /UD => x
 
 https://kr.msi.com/Laptop/Sword-GF76-A11UX/support?sku_id=82761#driver
+
+sound driver install info
+cmd => install
+C:\N64\msi_driver\Application\UWP\Realtek Audio Console
+

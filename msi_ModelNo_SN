@@ -4,13 +4,19 @@ MSI
 - 무선MAC : D4-54-8B-DA-98-A5
 - 유선MAC : 2C-F0-5D-FD-36-7F
 
-driver info
+driver info =
 [메가특.가:79만] MSI Sword GF76 A11SC-i7 비전 (497) i7-11800H/GTX1650/256G/8G/17인치게이밍노트북
-
 MSI Sword GF76 A11UE => O 선택   /UD => x
-
 https://kr.msi.com/Laptop/Sword-GF76-A11UX/support?sku_id=82761#driver
 
+
+== 아래는 사운드 드라이브 설치 ==
+AUDIO/Realtek Audio Driver 6.0.9244.1 2021-12-03 52.11 MB/Download
+9244_UAD_WHQL_NB 폴더에서 setup.exe
+https://download.msi.com/archive/mnu_exe/nb/NB_Quick_Guide_Realtek_Audio_Driver_Installation_en.pdf  => 설명
+
+
+== 아래는 이전에 성공했는제 잘 모르겠음 ==
 sound driver install info
 cmd => install
 C:\N64\msi_driver\Application\UWP\Realtek Audio Console
